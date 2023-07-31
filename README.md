@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Caralegal123
-- 👀 I’m interested in PHP
+- 👋 Hi, I’m Antony
+- 👀 I’m interested in frontend
 - 🌱 I’m currently learning HTML, CSS, JS and PHP
 
 
